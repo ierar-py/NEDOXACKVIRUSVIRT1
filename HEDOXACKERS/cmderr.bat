@@ -1,0 +1,1 @@
+msg * "tvoemy kompy pipec"

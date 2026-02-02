@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\bin\Debug\net8.0\startup.exe
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\bin\Debug\net8.0\startup.deps.json
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\bin\Debug\net8.0\startup.runtimeconfig.json
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\bin\Debug\net8.0\startup.dll
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\bin\Debug\net8.0\startup.pdb
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\startup.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\startup.AssemblyInfo.cs
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\startup.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\startup.dll
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\refint\startup.dll
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\startup.pdb
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\startup.genruntimeconfig.cache
+C:\Users\MSI\Desktop\HEDOXACKERS\startup\startup\obj\Debug\net8.0\ref\startup.dll
